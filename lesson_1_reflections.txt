@@ -1,0 +1,22 @@
+Through the use of one command I was able to determine easily where the 
+two files differ from each other even if the code is very long and it 
+will take a long time if I manually find their differences. This will 
+be useful in the future. I think that by having an easy access to the 
+entire history of a file I will be able to see what changes I made and 
+be able to compare the previous ones to the current ones. I would be 
+able to track the changes. Some of the version-control systems are 
+truly helpful in situations where the computer suddenly turns off and
+ the system will be able to bring it back like the way it used to be. 
+ And through the use of such systems any programmer will be stress-free 
+ in manually saving and organizing the version of their files. 
+ The pros of manually choosing when to create a commit makes it more 
+ easy to understand and to see the change because it is narrowed down 
+ into a more specific way. It lets all the participants in the group
+ know the specific changes which make the project easire to finish. 
+ I think Git allows saving of multiple files in one commit to be able to
+ have a complete set whether only one file was changed. There are times 
+ that the when programmer forgot to save the file that he changed 
+ awhile ago because he/she jumped to another file that he wants to 
+ change so saving of multiple files in one commit is a great advantage.
+ The commands git log and git diff are very useful in comparing 2 files
+ and can be extremely helpful in letting partners every change you made in the program.
